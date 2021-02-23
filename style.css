@@ -1,0 +1,176 @@
+html {
+    scroll-padding-top: 84px;
+}
+.logo {
+    width: 183.96px;
+    height: 45.04px;
+    float:left;
+}
+.nolink {
+    color: inherit;
+    text-decoration:none;
+}
+nav {
+    padding-top: 7px;
+    float: right;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+.container {
+    box-sizing: border-box;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+  }
+.clear {
+    clear: both;
+}
+.fixed {
+    position: fixed;
+    padding: 20px 0;
+    width: 100%;
+    background-color: #007765;
+    max-height: 84px;
+    top: 0;
+    left: 0;
+}
+.hero1 {
+    padding: 20px 0;
+    margin-top: 84px;
+    width: 100%;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    background-image: url(image.png);
+    background-size: cover;
+    background-position: center center;
+}
+.hero_message1 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 72px;
+    text-align: center;
+    color: #fff;
+    line-height: 84,38px;
+}
+.h1 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 64px;
+    text-align: center;
+    color: #007765;
+    margin-bottom: 16px;
+    padding-top: 48px;
+    line-height: 75px;
+}
+.greyback {
+    background-color: #EEEEEE;
+}
+.pg {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37.5px;
+}
+.text {
+    padding-bottom: 92px;
+}
+.hero2 {
+    padding-top: 128px;
+    padding-bottom: 128px;
+    background-image: url('https://i.ibb.co/PM6cMBn/image.png');
+    background-size: cover;
+    background-position: center center;
+}
+.hero_message2 {
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #fff;
+}
+.ppc {
+    background-color: #FFFFFF;
+}
+.ppclogo {
+    height: 115px;
+    width: 115px;
+    float: left;
+    margin-right: 48px;
+}
+.text2 {
+    padding-top: 35px;
+    padding-bottom: 92px;
+}
+.h11 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 64px;
+    text-align: center;
+    color: #007765;
+    margin-bottom: 32px;
+    padding-top: 48px;
+    line-height: 75px;
+}
+.teammember {
+    display: inline-block;
+}
+.memberphoto {
+    margin: 24px 89px 12px 89px;
+    width: 168px;
+    height: 168px;
+}
+.name {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+    text-align: center;
+}
+.position {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21.09px;
+    text-align: center;
+    color: #000000;
+    padding-bottom: 28px;
+}
+.teammember.one, .teammember.two  {
+    padding: 0 30px 30px 0;
+}
+.teammember.three {
+    padding: 0 0 30px 0;
+}
+.teammember.four, .teammember.five {
+    padding: 0 30px 94px 0;
+}
+.teammember.six {
+    padding: 0 0 94px 0;
+}
+.darkback {
+    background-color: #333333;
+    padding: 48px 339px 64px 340px;
+}
+.rights {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.center {
+    text-align: center;
+}
+
