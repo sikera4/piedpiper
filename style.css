@@ -120,9 +120,10 @@ nav {
 }
 .teammember {
     display: inline-block;
+    flex-basis: 33%;
 }
 .memberphoto {
-    margin: 24px 89px 12px 89px;
+    margin: 24px 91px 12px 91px;
     width: 168px;
     height: 168px;
 }
@@ -145,17 +146,12 @@ nav {
     color: #000000;
     padding-bottom: 28px;
 }
-.teammember.one, .teammember.two  {
-    padding: 0 30px 30px 0;
-}
-.teammember.three {
-    padding: 0 0 30px 0;
-}
-.teammember.four, .teammember.five {
-    padding: 0 30px 94px 0;
-}
-.teammember.six {
-    padding: 0 0 94px 0;
+.center {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    padding-bottom: 94px;
 }
 .darkback {
     background-color: #333333;
@@ -170,7 +166,5 @@ nav {
     text-align: center;
     color: #FFFFFF;
 }
-.center {
-    text-align: center;
-}
+
 
